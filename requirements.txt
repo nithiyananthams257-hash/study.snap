@@ -1,0 +1,39 @@
+# UI
+streamlit
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+
+# AI
+google-genai
+
+# Database
+sqlalchemy
+alembic
+psycopg[binary]
+
+# Auth and security
+argon2-cffi
+pyjwt
+email-validator
+
+# Document parsing
+pypdf
+python-docx
+python-pptx
+pillow
+
+# Vector search
+chromadb
+
+# Background jobs and cache
+redis
+rq
+
+# Export
+reportlab

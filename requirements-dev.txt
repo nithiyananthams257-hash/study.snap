@@ -1,0 +1,10 @@
+-r requirements.txt
+
+pytest
+pytest-cov
+httpx
+playwright
+ruff
+black
+mypy
+pre-commit
